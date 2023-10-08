@@ -1,1 +1,1 @@
-Github page of CEED Group at Purdue
+Github page of CEED Group at Purdue University.
